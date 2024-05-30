@@ -13,7 +13,7 @@ This is a simple Java application that allows users to manage and view updates f
 ## Installing
 1. Clone the repository to your local machine
 ```bash
-    git clone https://github.com/MKmasterg/project-name.git
+    git clone https://github.com/MKmasterg/JavaRSSReader.git
 ```
 2. Download jsoup library from https://jsoup.org/. You will find the download link on the homepage. Download the latest version of the library.
 3. After downloading the JSOUP library, you should include it in your project. If you're using IntelliJ IDEA, you can do this by following these steps:  
