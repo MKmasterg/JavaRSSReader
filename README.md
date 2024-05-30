@@ -9,6 +9,23 @@ This is a simple Java application that allows users to manage and view updates f
 - Delete an existing RSS feed URL
 - View updates from selected RSS feeds
 
+
+## Installing
+1. Clone the repository to your local machine
+```bash
+    git clone https://github.com/MKmasterg/project-name.git
+```
+2. Download jsoup library from https://jsoup.org/. You will find the download link on the homepage. Download the latest version of the library.
+3. After downloading the JSOUP library, you should include it in your project. If you're using IntelliJ IDEA, you can do this by following these steps:  
+- Open your project in IntelliJ IDEA.
+- Go to File -> Project Structure -> Libraries.
+- Click on the + button and select Java.
+- Navigate to the location where you downloaded the JSOUP library, select the .jar file and click OK.
+- Click Apply and then OK.
+
+4. Open the project in your IDE.  
+5. Run the Main.java file to start the application.
+
 ## Usage
 
 The application presents a menu with four options:
